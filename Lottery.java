@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class LotterySystem {
+public class Lottery {
 
     public enum Color {
         GREEN, BLUE, PURPLE, WHITE, BLACK, YELLOW, ORANGE
